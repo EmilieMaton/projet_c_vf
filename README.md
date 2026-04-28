@@ -21,11 +21,17 @@ Puis exécuter le programme :
 
 ## Organisation du projet
 main.c : point d’entrée du programme
+
 fonctions_utiles.c/h : fonctions utilitaires réutilisables
-fonctions_jeux.c/h : fonctions liées au fonctionnement du jeu
+
+fonctions_jeux.c/h : fonctions liées au fonctionnement des jeux
+
 scores.txt : fichier de sauvegarde des scores
+
 test_fonctions_jeux.c : fichiers de test pour valider les fonctions jeux
+
 test_fonctions_utiles.c : fichiers de test pour valider les fonctions utiles
+
 
 
 
